@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**HugoKD/HugoKD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Visitor]([![Visitor](https://visitor-badge.laobi.icu/badge?page_id=HugoKD.HugoKD)](https://github.com/HugoKD) [![GitHub followers](https://img.shields.io/github/followers/HugoKD.svg?style=social&label=Follow)](https://github.com/HugoKD?tab=followers))](https://github.com/HugoKD) [![GitHub followers](https://img.shields.io/github/followers/HugoKD.svg?style=social&label=Follow)](https://github.com/HugoKD?tab=followers)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am currently working on several IT projects ..
+- 📫 How to reach me: hugo.cadet@telecom-sudparis.eu
+
+I'm Hugo Cadet !
+
+    Previously: in Janson de Sailly, a french Prepa at Paris.
+    Currently: Computer Science student at Telecom Sud Paris.
+    And after ..: I'm currently studying, to be an AI-Engineer/Data-Engineer in the medical field
+    
+    
