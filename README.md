@@ -1,6 +1,6 @@
 <h1> Hi there 👋</h1> 
 
-I'm Hugo Cadet, a french student ! ♨♨
+I'm Hugo Cadet, a french student ! ♨
 
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=HugoKD.HugoKD)](https://github.com/HugoKD) [![GitHub followers](https://img.shields.io/github/followers/HugoKD.svg?style=social&label=Follow)](https://github.com/HugoKD?tab=followers)
