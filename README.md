@@ -32,10 +32,11 @@ I'm Hugo Cadet !
      <br/>
      <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/bash.svg"></code>
      <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/boostrap.svg"></code>
-     <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/jquery.svg"></code>
+     <code></code>
      <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/django.svg"></code>
      <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/gitlab.svg"></code>
      <code><img width="5%" src="https://github.com/HugoKD/HugoKD/blob/main/img/TF.png"></code>
+     <code><img width="5%" src="https://github.com/HugoKD/HugoKD/blob/main/img/jquerry.png"></code>
      <br/>
      <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/git.svg"></code>
      <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/eclipse.png"></code>
