@@ -12,11 +12,12 @@ I'm Hugo Cadet, a french student ! ♨
 - 📫 How to reach me: hugo.cadet@telecom-sudparis.eu
 
 
-
+<p>
     Previously: in Janson de Sailly, a french Prepa at Paris.
     Currently: Computer Science student at Telecom Sud Paris.
     And after ..: I'm currently studying, to be an AI-Engineer/Data-Engineer in the medical field
-    
+</p>
+
 
 <!-- RAJOUTZE NORION -->
 <h2 align="center"> What I am Using for dev - 💻 </h2>
