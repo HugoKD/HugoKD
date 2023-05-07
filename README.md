@@ -13,9 +13,9 @@ I'm Hugo Cadet, a french student ! ♨
 
 
 <p>
-    Previously: in Janson de Sailly, a french Prepa at Paris.
-    Currently: Computer Science student at Telecom Sud Paris.
-    And after ..: I'm currently studying, to be an AI-Engineer/Data-Engineer in the medical field
+    -Previously: in Janson de Sailly, a french Prepa at Paris.
+    -Currently: Computer Science student at Telecom Sud Paris.
+    -And after ..: I'm currently studying, to be an AI-Engineer/Data-Engineer in the medical field
 </p>
 
 
