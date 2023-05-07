@@ -1,11 +1,11 @@
 <h1> Hi there 👋</h1> 
 
-I'm Hugo Cadet ! 💮
+I'm Hugo Cadet ! 
 
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=HugoKD.HugoKD)](https://github.com/HugoKD) [![GitHub followers](https://img.shields.io/github/followers/HugoKD.svg?style=social&label=Follow)](https://github.com/HugoKD?tab=followers)
 
-<h2 align="center"> About me - ⭐ </h2>
+<h2 align="center"> About me - 💮✴ </h2>
 
 - 🌱 I’m currently learning ...
 - 🔭 I am currently working on several IT projects ..
