@@ -7,7 +7,7 @@ I'm Hugo Cadet, a french student ! ♨
 
 <h2 align="center"> About me - 🎴 </h2>
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m learning ...
 - 🔭 I am working on several IT projects ..
 - 📫 How to reach me: hugo.cadet@telecom-sudparis.eu
 
@@ -17,7 +17,7 @@ I'm Hugo Cadet, a french student ! ♨
 <br>
     -Currently: Computer Science student at Telecom Sud 
 <br>
-    -And after ..: I'm currently studying, to be an AI-Engineer/Data-Engineer in the medical field
+    -And after ..: I'm studying, to be an AI-Engineer/Data-Engineer in the medical field
 </p>
 
 
