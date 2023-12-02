@@ -1,4 +1,4 @@
-<h1> Hi there 👋</h1> 
+<h1> Hello there 👋</h1> 
 
 I'm Hugo Cadet, a french student ! ♨
 
