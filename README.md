@@ -1,14 +1,12 @@
 <h1>👋</h1> 
 
-I'm Hugo Cadet, a french student ! ♨
+I'm Hugo Cadet, an engineering student ! ♨
 
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=HugoKD.HugoKD)](https://github.com/HugoKD) [![GitHub followers](https://img.shields.io/github/followers/HugoKD.svg?style=social&label=Follow)](https://github.com/HugoKD?tab=followers)
 
 <h2 align="center"> About me - 🎴 </h2>
 
-- 🌱 I’m learning ...
-- 🔭 I am working on several IT projects ..
 - 📫 How to reach me: hugo.cadet@telecom-sudparis.eu
 
 
