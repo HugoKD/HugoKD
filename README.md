@@ -15,9 +15,6 @@ I'm Hugo Cadet, an engineering student working on Data Science, Gen AI, and Deep
 <br>
     -Currently: Computer Science student at Telecom Sud 
 <br>
-    -And after ..: I'm studying, to be an AI-Engineer/Data-Engineer in the medical field
-</p>
-
 
 <!-- RAJOUTZE NORION -->
 <h2 align="center"> What I am Using for dev - 💻 </h2>
