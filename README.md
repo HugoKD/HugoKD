@@ -8,9 +8,9 @@ Engineering student specializing in Data Science, Generative AI, and Deep Learni
 <h2 align="center"> About me - 🎴 </h2>
 
 - 📫 How to reach me: **hugo.cadet@telecom-sudparis.eu**
-<br>
+
+  
 - 💻 Currently: Computer Science student at Telecom Sud 
-<br>
 
 <!-- RAJOUTZE NORION -->
 <h2 align="center"> What I am Using for dev - 💻 </h2>
