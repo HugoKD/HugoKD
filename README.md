@@ -9,7 +9,7 @@ Engineering student specializing in Data Science, Generative AI, and Deep Learni
 
 - 📫 How to reach me: **hugo.cadet@telecom-sudparis.eu**
 <br>
-    - Currently: Computer Science student at Telecom Sud 
+- Currently: Computer Science student at Telecom Sud 
 <br>
 
 <!-- RAJOUTZE NORION -->
